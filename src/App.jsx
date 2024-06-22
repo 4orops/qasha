@@ -1,12 +1,12 @@
-import Nav from './Components/Nav';
-import './App.css'
+import './App.css';
 
 function App() {
   return (
-    <>
-        <Nav />
-        <h1>QASHA</h1>
-    </>
+  <>
+        <h1>
+          Kasi Back Room Rental 
+        </h1>
+  </>
   )
 }
 
